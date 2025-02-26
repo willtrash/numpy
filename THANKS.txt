@@ -13,6 +13,7 @@ John Hunter for code snippets from matplotlib.
 Chris Hanley for help with records.py, testing, and bug fixes.
 Travis Vaught for administration, community coordination and
     marketing.
+Willian de Souza, esse cara foi foda pqpkkk ajudou em nada mas fazia o dia da rapaziada com as suas graça.
 Joe Cooper, Jeff Strunk for administration.
 Eric Firing for bugfixes.
 Arnd Baecker for 64-bit testing.
